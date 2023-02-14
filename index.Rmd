@@ -1,0 +1,21 @@
+---
+title: "Evelia Coss"
+image: "twitter_photo.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://twitter.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:ecoss@liigh.unam.mx"
+output:
+  postcards::jolla
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Education**
+
+Postdoc of RegGenoLab at @[LIIGH_UNAM](https://twitter.com/LIIGH_UNAM).
