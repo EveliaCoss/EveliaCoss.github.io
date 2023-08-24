@@ -1,0 +1,5 @@
+Este archivo de presentacion se baso en el de Monica Padilla y en la informacion del paquete postcards
+
+https://github.com/mpadilla905/mpadilla905.github.io/tree/master
+
+https://cran.r-project.org/web/packages/postcards/readme/README.html
