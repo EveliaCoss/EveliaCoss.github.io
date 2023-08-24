@@ -1,7 +1,9 @@
 ---
 title: "Evelia Coss"
-image: "twitter_photo.jpg"
+image: "yo_Eve.jpg"
 links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
   - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
     url: "https://twitter.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
@@ -16,6 +18,16 @@ output:
 library(fontawesome)
 ```
 
+#### **Bio** 
+
+I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
+
 #### **Education**
 
-Postdoc of RegGenoLab at @[LIIGH_UNAM](https://twitter.com/LIIGH_UNAM).
+**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | @[Selene Fernandez-Valverde](https://twitter.com/SelFdz) | August 2018 - January 2023
+
+**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) | February 2023 - Present
+
+#### Experience
+
+Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet) and @[CDSB Mexico](https://twitter.com/CDSBMexico).
