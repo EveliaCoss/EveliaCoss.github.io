@@ -24,10 +24,13 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 
 #### **Education**
 
-**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | @[Selene Fernandez-Valverde](https://twitter.com/SelFdz) | August 2018 - January 2023
+**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) | February 2023 - Present
 
-**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) | February 2023 - Present
+**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz) | August 2018 - January 2023
 
 #### Experience
 
-Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet) and @[CDSB Mexico](https://twitter.com/CDSBMexico).
+Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html) and @[CDSB Mexico](https://twitter.com/CDSBMexico).
+
+Repository Contributions: webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) and Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython), Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso | paper [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) and Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation).
+
