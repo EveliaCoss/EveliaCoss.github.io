@@ -1,6 +1,6 @@
 ---
 title: "Evelia Coss"
-image: "yo_Eve.jpg"
+image: "yo_azul.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "https://www.linkedin.com/in/evelia-lorena-coss-navarrete-562226229/"
@@ -10,6 +10,8 @@ links:
     url: "https://github.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:ecoss@liigh.unam.mx"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+    url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
   postcards::jolla
 ---
@@ -22,15 +24,21 @@ library(fontawesome)
 
 I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
 
+Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
+
 #### **Education**
 
 **Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) | February 2023 - Present
 
 **PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz) | August 2018 - January 2023
 
-#### Experience
+#### **Experience**
 
-Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html) and @[CDSB Mexico](https://twitter.com/CDSBMexico).
+Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html), @[CDSB Mexico](https://twitter.com/CDSBMexico) and @[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
 
-Repository Contributions: webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) and Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython), Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso | paper [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) and Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation).
+Repository Contributions: 
+
+Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
+
+[Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz)
 
