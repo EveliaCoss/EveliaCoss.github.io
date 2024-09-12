@@ -2,18 +2,13 @@
 <b>Evelia Coss </b>
 </h1>
 
-<h2 align="center">
-Bio
-</h2>
+### Bio
 
-I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
+I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics. Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM) and R-Ladies Morelia.
 
-Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @LIIGH-UNAM)
 - Web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
 
-<h3 align="center">
-Education
-</h3>
+### Education
 
 - Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
 - PhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023
