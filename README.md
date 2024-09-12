@@ -13,15 +13,11 @@ I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and b
 - Postdoctoral Fellowship | @LIIGH-UNAM | Dr. @Alejandra Medina-Rivera | February 2023 - Present
 - PhD in Plant Biotechnology | @Cinvestav UGA-Langebio, Mexico | Dr. @Selene Fernandez-Valverde | August 2018 - January 2023
 
-<h3 align="center">
-Experience
-</h3>
+###  Experience
 
 Member of the @JAGUAR Project, @R-ladies Morelia, @RIABIO, @LupusRGMX, @CDSB Mexico and @ISCB RSG-Mexico.
 
-<h3 align="center">
-Repository Contributions:
-</h3>
+###  Repository Contributions:
 
 - Webpage Plants&Python | Github Plants&Python | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 - Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana | Github Transcriptome-guided_lncRNA_annotation | Dr. @Selene Fernandez-Valverde
