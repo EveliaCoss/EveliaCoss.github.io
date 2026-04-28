@@ -24,21 +24,21 @@ library(fontawesome)
 
 I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
 
-Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: https://viernesbioinformatica.github.io/ | Github: [ViernesBioinfo2024](https://github.com/EveliaCoss/ViernesBioinfo2024) and [ViernesBioinfo2023](https://github.com/EveliaCoss/ViernesBioinfo2023)
+Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) | web page: <https://viernesbioinformatica.github.io/> | Github: [ViernesBioinfo2023_parte0](https://github.com/EveliaCoss/ViernesBioinfo2023); [ViernesBioinfo2024_parte1](https://github.com/EveliaCoss/ViernesBioinfo2024); [ViernesBioinfo2024_parte2](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2); [ViernesBioinfo2025_parte4](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4); [ViernesBioinfo2025_parte3](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3); [ViernesBioinfo2026_parte5](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5)
 
 #### **Education**
 
-**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Federico Sánchez Quinto](https://liigh.unam.mx/profile/dr-federico-sanchez-quinto/) | February 2026 - Present
+**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | February 2026 - Present
 
-**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | Dr. @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) | February 2023 - Jan 2026
+**Postdoctoral Fellowship** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) | February 2023 - Jan 2026
 
-**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz) | August 2018 - January 2023
+**PhD in Plant Biotechnology** | @[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico | August 2018 - January 2023
 
 #### **Experience**
 
 Member of the @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[CDSB Mexico](https://twitter.com/CDSBMexico) and @[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
 
-Repository Contributions: 
+#### **Repository Contributions**
 
 Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 
