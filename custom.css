@@ -1,0 +1,18 @@
+/* Contenedor principal: divide en dos columnas */
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+/* Columna izquierda: foto + botones */
+.profile-pic, .links {
+  order: 1;              /* aseguran que estén a la izquierda */
+  margin-right: 2rem;
+}
+
+/* Columna derecha: texto */
+.content {
+  order: 2;
+  flex: 1;
+}
