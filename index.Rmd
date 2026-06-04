@@ -8,8 +8,10 @@ links:
     url: "https://twitter.com/EveliaCoss/"
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/EveliaCoss/"
+  - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
+    url: https://www.researchgate.net/profile/Evelia-Coss-Navarrete  
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
-    url: "mailto:ecoss@liigh.unam.mx"
+    url: "mailto:ecossnav@gmail.com"
   - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
     url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
 output:
